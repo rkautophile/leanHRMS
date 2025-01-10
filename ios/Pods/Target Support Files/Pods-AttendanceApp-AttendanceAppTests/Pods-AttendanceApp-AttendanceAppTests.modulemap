@@ -1,0 +1,6 @@
+module Pods_AttendanceApp_AttendanceAppTests {
+  umbrella header "Pods-AttendanceApp-AttendanceAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
